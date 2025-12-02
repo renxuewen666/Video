@@ -11,11 +11,23 @@
 //定义首页源的各种网站，抄大佬的最简单
 
 "sites":[
-
-{"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+{
+  "key": "客星",
+  "name": "客星",
+  "type": 3,
+  "api": "csp_Xdai",
+  "playerType": 2,
+  "ext": "7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16"
+},
+{
+  "key": "柠檬",
+  "name": "柠檬┃App",
+  "type": 3,
+  "api": "csp_Nmvod",
+  "playerType": 2,
+  "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+},
 {"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
-
 ],
 
 

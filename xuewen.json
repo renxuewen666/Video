@@ -1,7 +1,7 @@
 //软件填写配置地址clan://localhost/XWBox/xuewen.json
 {
 //启动引擎,定义jar地址:spider,clan://XWBox/xuewen.jar
-"spider":"clan://XWBox/refs/heads/main/xuewen.jar",
+"spider":"clan://XWBox/xuewen.jar",
 
 //直播地址:lives,clan://XWBox/refs/heads/main/live.txt
 //定义直播源地址，clan://XWBox/live.txt需要转换成Base64编码Y2xhbjovL3JlZnMvaGVhZHMvbWFpbi9saXZlLnR4dA==粘贴到'=txt&ext='后面
@@ -21,13 +21,47 @@
 },
 {
   "key": "柠檬",
-  "name": "柠檬┃App",
+  "name": "柠檬",
   "type": 3,
   "api": "csp_Nmvod",
   "playerType": 2,
   "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
 },
-{"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
+{
+      "key": "量子资源",
+      "name": "🥑┃量子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    }
 ],
 
 

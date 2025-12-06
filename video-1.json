@@ -1,6 +1,5 @@
 //软件填写配置地址clan://localhost/Video/video-1.json
 {
-
 //启动引擎,定义jar地址:spider：饭太硬
 "spider": "https://oss4liview.moji.com/thd_file/2025/12/03/40664a16456714d85df66affff808e3a.jpg;md5;723a719bd225cd0a9a6df4e751729723",	
 //璧纸地址:wallpaper
